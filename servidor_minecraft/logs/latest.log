@@ -1,0 +1,218 @@
+[15Aug2025 05:14:52.199] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeserver, --fml.neoForgeVersion, 21.5.87, --fml.fmlVersion, 7.0.13, --fml.mcVersion, 1.21.5, --fml.neoFormVersion, 20250325.162830, nogui]
+[15Aug2025 05:14:52.201] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[15Aug2025 05:14:52.203] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[15Aug2025 05:14:52.323] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is neoforgeserver
+[15Aug2025 05:14:52.380] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/workspaces/Novedad/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2383!/ Service=ModLauncher Env=SERVER
+[15Aug2025 05:14:52.751] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.5-20250325.162830-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.5.87:server]
+[15Aug2025 05:14:52.776] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.5.87-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.5.87/neoforge-21.5.87-universal.jar]], reader: mod manifest]
+[15Aug2025 05:14:52.795] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BiomesOPlenty-neoforge-1.21.5-21.4.0.61.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.801] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "camera-neoforge-1.21.5-1.1.7.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.805] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "collective-1.21.5-8.3.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.812] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "corpse-neoforge-1.21.5-1.1.10.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CreativeCore_NEOFORGE_v2.13.2_mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_model_features_neoforge_1.21.5-2.4.4.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.824] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_texture_features_neoforge_1.21.5-6.2.13.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.827] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "GlitchCore-neoforge-1.21.5-2.5.0.1.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.830] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "infinitetrading-1.21.5-4.6.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.834] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "iris-neoforge-1.8.11+mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.844] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.5-NeoForge-18.2.0.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.848] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.5-neoforge-21.4.0.27.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.854] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-neoforge-1.21.5-6.0.0-beta.52.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.860] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "onlyhammers-1.21.5-0.7.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.863] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "replantingcrops-1.21.5-5.5.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.866] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sodium-neoforge-0.6.13+mc1.21.5.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.869] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.5-3.24.19.1294.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.872] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.5-1.3.59.1064.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.875] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TerraBlender-neoforge-1.21.5-5.0.0.1.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:52.880] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Terralith_1.21.x_v2.5.11.jar" [locator: {mods folder locator at /workspaces/Novedad/servidor_minecraft/mods}, reader: mod manifest]
+[15Aug2025 05:14:53.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[15Aug2025 05:14:53.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.5.87-universal.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "httpmime-4.5.10.jar" [parent: entity_texture_features_neoforge_1.21.5-6.2.13.jar, locator: jarinjar]
+[15Aug2025 05:14:53.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-6.0.0.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.5.87.jar" [parent: neoforge-21.5.87-universal.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar]
+[15Aug2025 05:14:53.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "common-networking-neoforge-1.0.18-1.21.5.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "antlr4-runtime-4.13.1.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
+[15Aug2025 05:14:53.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
+[15Aug2025 05:14:53.109] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.5-SNAPSHOT.jar" [parent: journeymap-neoforge-1.21.5-6.0.0-beta.52.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.caffeinemc.sodium-neoforge-0.6.13+mc1.21.5-service.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.11+mc1.21.5.jar, locator: jarinjar]
+[15Aug2025 05:14:53.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: sodium-neoforge-0.6.13+mc1.21.5.jar, locator: jarinjar, reader: mod manifest]
+[15Aug2025 05:14:53.112] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Biomes O' Plenty 21.4.0.61 (biomesoplenty)
+		Camera Mod 1.21.5-1.1.7 (camera)
+		Collective 8.3 (collective)
+		Common Networking 1.0.18-1.21.5 (commonnetworking)
+		Corpse 1.21.5-1.1.10 (corpse)
+		CreativeCore 2.13.2 (creativecore)
+		Entity Model Features 2.4.4 (entity_model_features)
+		Entity Texture Features 6.2.13 (entity_texture_features)
+		Fabric Renderer API (CaffeineMC) 6.0.0 (fabric_renderer_api_v1)
+		Forgified Fabric API Base 0.4.42+d1308ded19 (fabric_api_base)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		GlitchCore 2.5.0.1 (glitchcore)
+		Infinite Trading 4.6 (infinitetrading)
+		Iris 1.8.11+mc1.21.5 (iris)
+		Jade 18.2.0+neoforge (jade)
+		Journeymap 1.21.5-6.0.0-beta.52 (journeymap)
+		JourneyMap API 2.0.0 (journeymap_api)
+		Just Enough Items 21.4.0.27 (jei)
+		Minecraft 1.21.5 (minecraft)
+		NeoForge 21.5.87 (neoforge)
+		OnlyHammers 1.21.5-0.7 (onlyhammers)
+		Replanting Crops 5.5 (replantingcrops)
+		Sodium 0.6.13+mc1.21.5 (sodium)
+		Sophisticated Backpacks 3.24.19 (sophisticatedbackpacks)
+		Sophisticated Core 1.3.59 (sophisticatedcore)
+		TerraBlender 5.0.0.1 (terrablender)
+		Terralith 2.5.11 (terralith)
+[15Aug2025 05:14:53.190] [main/WARN] [net.neoforged.fml.loading.LanguageProviderLoader/]: Mod Mod File: /workspaces/Novedad/servidor_minecraft/mods/Terralith_1.21.x_v2.5.11.jar is using the deprecated 'lowcodefml' language loader. This warning can be fixed by simply removing the modLoader and loaderVersion settings from neoforge.mods.toml.
+[15Aug2025 05:14:54.047] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Aug2025 05:14:54.064] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[15Aug2025 05:14:54.160] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeserver' with arguments [nogui]
+[15Aug2025 05:14:54.519] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.519] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.520] [main/WARN] [mixin/]: Reference map 'onlyexcavators.refmap.json' for onlyhammers.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.521] [main/WARN] [mixin/]: Reference map 'jade.refmap.json' for jade.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.521] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.525] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.535] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.538] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.539] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.540] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.540] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.540] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.542] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.542] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.543] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.543] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.582] [main/INFO] [Sodium/]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[15Aug2025 05:14:54.598] [main/WARN] [mixin/]: Reference map 'camera.refmap.json' for camera.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Aug2025 05:14:54.915] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[15Aug2025 05:14:54.916] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[15Aug2025 05:14:54.916] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found onlyhammers.mixins.json:LevelRendererMixin from mod onlyhammers
+[15Aug2025 05:14:55.091] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/SalmonRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.SalmonRenderer)
+[15Aug2025 05:14:55.092] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.SalmonRenderer was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[15Aug2025 05:14:55.509] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at MC-BOOTSTRAP/com.github.oshi@6.6.5/oshi.SystemInfo.<clinit>(SystemInfo.java:40) ~[oshi-core-6.6.5.jar%23110!/:6.6.5]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.SystemReport.lambda$new$2(SystemReport.java:56) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.SystemReport.ignoreErrors(SystemReport.java:87) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.SystemReport.<init>(SystemReport.java:56) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.CrashReport.<init>(CrashReport.java:32) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.CrashReport.preload(CrashReport.java:206) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at TRANSFORMER/minecraft@1.21.5/net.minecraft.server.Main.main(Main.java:110) ~[server-1.21.5-20250325.162830-srg.jar%23157!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@7.0.13/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:128) ~[loader-7.0.13.jar%2369!/:7.0]
+	at MC-BOOTSTRAP/fml_loader@7.0.13/net.neoforged.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:124) ~[loader-7.0.13.jar%2369!/:7.0]
+	at MC-BOOTSTRAP/fml_loader@7.0.13/net.neoforged.fml.loading.targets.NeoForgeServerLaunchHandler.runService(NeoForgeServerLaunchHandler.java:39) ~[loader-7.0.13.jar%2369!/:7.0]
+	at MC-BOOTSTRAP/fml_loader@7.0.13/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:114) ~[loader-7.0.13.jar%2369!/:7.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.4.jar%2374!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.4.jar%2374!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.4.jar%2374!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.4.jar%2374!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.4.jar%2374!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.4.jar%2374!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.4.jar%2374!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.neoforged.serverstarterjar.Main.mainLaunch(Main.java:297) [neoforge.jar:0.1.34]
+	at net.neoforged.serverstarterjar.Main.main(Main.java:76) [neoforge.jar:0.1.34]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.neoforged.serverstarterjar.Main8.main(Main8.java:19) [neoforge.jar:0.1.34]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:216) ~[securejarhandler-3.0.8.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 29 more
+[15Aug2025 05:14:55.591] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15Aug2025 05:15:00.374] [main/WARN] [mixin/]: Injection warning: LVT in net/minecraft/world/level/BaseSpawner::serverTick(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;)V has incompatible changes at opcode 65 in callback collective_neoforge.mixins.json:BaseSpawnerMixin from mod collective->@Inject::BaseSpawner_serverTick(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ZLnet/minecraft/util/RandomSource;Lnet/minecraft/world/level/SpawnData;ILnet/minecraft/nbt/CompoundTag;Ljava/util/Optional;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;ILnet/minecraft/world/entity/Mob;)V.
+ Expected: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/SpawnData;, I, Lnet/minecraft/nbt/CompoundTag;, Ljava/util/Optional;, Lnet/minecraft/world/phys/Vec3;, Lnet/minecraft/core/BlockPos;, Lnet/minecraft/world/entity/Entity;, I, Lnet/minecraft/world/entity/Mob;]
+    Found: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/SpawnData;, I]
+Available: [Z, Lnet/minecraft/util/RandomSource;, Lnet/minecraft/world/level/SpawnData;, I]
+[15Aug2025 05:15:02.006] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[15Aug2025 05:15:02.070] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.5.87, for MC 1.21.5
+[15Aug2025 05:15:03.287] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[15Aug2025 05:15:03.287] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[15Aug2025 05:15:03.288] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[15Aug2025 05:15:03.288] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[15Aug2025 05:15:03.289] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[15Aug2025 05:15:03.289] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[15Aug2025 05:15:03.290] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[15Aug2025 05:15:03.411] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[15Aug2025 05:15:03.431] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[15Aug2025 05:15:03.453] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[15Aug2025 05:15:03.459] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[15Aug2025 05:15:03.460] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[15Aug2025 05:15:03.460] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Camera Mod: de.maxhenkel.camera.integration.waila.PluginCamera
+[15Aug2025 05:15:03.461] [modloading-sync-worker/INFO] [snownee.jade.Jade/]: Start loading plugin from Corpse: de.maxhenkel.corpse.integration.waila.PluginCorpse
+[15Aug2025 05:15:03.621] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/neoforge/camera
+[15Aug2025 05:15:03.697] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15Aug2025 05:15:03.899] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Novedad/servidor_minecraft/libraries/net/minecraft/server/1.21.5-20250325.162830/server-1.21.5-20250325.162830-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[15Aug2025 05:15:03.899] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Novedad/servidor_minecraft/libraries/net/minecraft/server/1.21.5-20250325.162830/server-1.21.5-20250325.162830-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[15Aug2025 05:15:04.361] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [camera] Found status: BETA Current: 1.21.5-1.1.7 Target: 1.21.5-1.1.7
+[15Aug2025 05:15:04.364] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[15Aug2025 05:15:04.459] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.5-6.0.0-beta.52 Target: 1.21.5-6.0.0-beta.52
+[15Aug2025 05:15:04.459] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/neoforge/corpse
+[15Aug2025 05:15:04.556] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [corpse] Found status: BETA Current: 1.21.5-1.1.10 Target: 1.21.5-1.1.10
+[15Aug2025 05:15:06.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1767 recipes
+[15Aug2025 05:15:06.704] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1869 advancements
+[15Aug2025 05:15:06.706] [main/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
+[15Aug2025 05:15:06.711] [main/ERROR] [sophisticatedbackpacks/]: No loader defined for swords
+[15Aug2025 05:15:06.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.5
+[15Aug2025 05:15:06.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Aug2025 05:15:06.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Aug2025 05:15:06.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Aug2025 05:15:07.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Aug2025 05:15:07.183] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Aug2025 05:15:07.212] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Aug2025 05:15:07.212] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Aug2025 05:15:07.212] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Aug2025 05:15:07.213] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Aug2025 05:15:07.232] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Aug2025 05:15:07.270] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:camel that was registered with CREATURE mob category but was added under AMBIENT mob category for terralith:desert_spires biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[15Aug2025 05:15:07.289] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[15Aug2025 05:15:07.290] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rocky_rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[15Aug2025 05:15:07.324] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[15Aug2025 05:15:07.764] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[15Aug2025 05:15:07.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Aug2025 05:15:08.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Aug2025 05:15:13.202] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.207] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Aug2025 05:15:13.504] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5338 ms
+[15Aug2025 05:15:13.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.278s)! For help, type "help"
+[15Aug2025 05:15:13.550] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[15Aug2025 05:15:13.553] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[15Aug2025 05:15:13.554] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@66d8f489 for service interface journeymap.api.services.ClientPlatformService
+[15Aug2025 05:15:13.557] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@6d07999f for service interface journeymap.api.services.CommonPlatformService
+[15Aug2025 05:15:25.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Aug2025 05:15:25.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Aug2025 05:15:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Aug2025 05:15:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Aug2025 05:15:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Aug2025 05:15:25.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Aug2025 05:15:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Aug2025 05:15:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Aug2025 05:15:25.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Aug2025 05:15:25.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Aug2025 05:15:25.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
